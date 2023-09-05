@@ -2,16 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+### This project is a starting point for a Flutter application. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="readme/img/app"/>
+<br/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# social-network-feed-using-flutter
+### As it is just an attempt to develop a feed page for a social network, for studying purposes, its code is not well written, as the cards, for example, are just fixated displays that don't really come from a specific method, nor the page can be scrolled down.
