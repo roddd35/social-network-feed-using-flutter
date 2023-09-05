@@ -1,4 +1,4 @@
-# Network Feed Design using Flutter
+# Social Network Feed Design using Flutter
 
 A new Flutter project.
 
