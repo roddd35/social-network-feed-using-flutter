@@ -1,7 +1,5 @@
 # Social Network Feed Design using Flutter
 
-A new Flutter project.
-
 ### This project is a starting point for a Flutter application. 
 
 <img src="readme/img/Simulator Screenshot - iPhone 14 Pro Max - 2023-09-05 at 15.52.31.png" width="30%"/>
